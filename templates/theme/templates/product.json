@@ -1,0 +1,361 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "globe",
+            "text": "Free worldwide shipping"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "dropdown",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        }
+      },
+      "block_order": [
+        "price",
+        "sales_point",
+        "variant_picker",
+        "buy_buttons",
+        "description"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_size": "medium",
+        "product_zoom_enable": false,
+        "thumbnail_position": "below",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "text-and-image": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/kermit.png",
+        "image_width": 500,
+        "subtitle": "",
+        "title": "Maximize Your Cabinet Space 📏",
+        "text": "<p>Transform cluttered cabinets with the StopTopple Kitchen Rack! Its adjustable layers allow you to neatly stack pots, pans, and lids, freeing up valuable storage space. Say goodbye to the chaos and hello to a beautifully organized kitchen.</p>",
+        "button_label": "GET YOURS NOW!",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "06a32a55-d23d-4eca-9650-049df523b259": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/kermit.png",
+        "image_width": 500,
+        "subtitle": "",
+        "title": "Customizable to Your Needs 🔧",
+        "text": "<p>With the StopTopple Kitchen Rack's innovative grooved frame, you can adjust the spacing between shelves to fit various sizes of kitchenware. Whether it's a tall stockpot or a shallow frying pan, your storage solution adapts to you.</p>",
+        "button_label": "GET YOURS NOW!",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "a6255fd5-01ed-420d-92a8-4737ac12c024": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/kermit.png",
+        "image_width": 500,
+        "subtitle": "",
+        "title": "Durable and Stylish 🛠️✨",
+        "text": "<p>Crafted from powder-coated black stainless steel, the StopTopple Kitchen Rack is not only sturdy but also adds a touch of elegance to your kitchen. Its durability ensures that your kitchenware is secure and your style is on point.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "3cd1f24c-46cf-499c-9264-85ba49111504": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/kermit.png",
+        "image_width": 500,
+        "subtitle": "",
+        "title": "Versatile Storage Solutions 🔄",
+        "text": "<p>Beyond pots and pans, the StopTopple Kitchen Rack is a versatile organizer for any item. Use it to store dishes, baking sheets, or even non-kitchen items. It's the all-in-one solution for decluttering any space.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "3eb54d88-3a1e-4806-b0b4-c9ed077bbcff": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/kermit.png",
+        "image_width": 500,
+        "subtitle": "",
+        "title": "Easy to Assemble and Clean 🛠️🧼",
+        "text": "<p>No tools? No problem! The StopTopple Kitchen Rack is designed for easy assembly, so you can get to organizing in no time. Plus, its sleek surface makes cleaning a breeze, ensuring your kitchen stays pristine.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_heading": "You may also like",
+        "related_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {}
+    },
+    "d8146d07-df59-4515-8844-7480369d0fd3": {
+      "type": "testimonials",
+      "blocks": {
+        "template--18925686063390__d8146d07-df59-4515-8844-7480369d0fd3-1684129146a6d0f84c-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Ever since I started using this rack in my kitchen, I've noticed a significant improvement in how organized my cabinets are. No more clanging pots when I'm looking for the right size!</p>",
+            "author": "Jamie L.",
+            "author_info": ""
+          }
+        },
+        "template--18925686063390__d8146d07-df59-4515-8844-7480369d0fd3-1684129146a6d0f84c-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>I'm all about efficiency in the kitchen, and this product has been a game-changer. It's sturdy, sleek, and my cookware has never been more accessible.</p>",
+            "author": "Chris D.",
+            "author_info": ""
+          }
+        },
+        "template--18925686063390__d8146d07-df59-4515-8844-7480369d0fd3-1684129146a6d0f84c-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>I bought the three-layer version for my small kitchen, and it's like I've found extra space I didn't know I had! It's a simple solution that has made a world of difference.</p>",
+            "author": "Morgan P.",
+            "author_info": ""
+          }
+        },
+        "template--18925686063390__d8146d07-df59-4515-8844-7480369d0fd3-1684129146a6d0f84c-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>As someone who loves to cook but dreads the cleanup and storage, this kitchen rack has made life so much easier. It's a solid build and fits perfectly in my cabinets.</p>",
+            "author": "Patricia N.",
+            "author_info": ""
+          }
+        },
+        "template--18925686063390__d8146d07-df59-4515-8844-7480369d0fd3-1684129146a6d0f84c-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>I was skeptical at first, but this rack has proven to be a sturdy and versatile addition to my kitchen. It's not just for pots and pans—I use it for all sorts of items!</p>",
+            "author": "Alex R.",
+            "author_info": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18925686063390__d8146d07-df59-4515-8844-7480369d0fd3-1684129146a6d0f84c-0",
+        "template--18925686063390__d8146d07-df59-4515-8844-7480369d0fd3-1684129146a6d0f84c-1",
+        "template--18925686063390__d8146d07-df59-4515-8844-7480369d0fd3-1684129146a6d0f84c-2",
+        "template--18925686063390__d8146d07-df59-4515-8844-7480369d0fd3-1684129146a6d0f84c-3",
+        "template--18925686063390__d8146d07-df59-4515-8844-7480369d0fd3-1684129146a6d0f84c-4"
+      ],
+      "settings": {
+        "title": "See what others have to say!",
+        "round_images": true,
+        "color_background": "#f9f9f9",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "c41ec2e9-1e31-446e-8d7e-f7616265fdb6": {
+      "type": "faq",
+      "blocks": {
+        "747bf1df-f3fd-4fb0-a589-8bf23261ea69": {
+          "type": "question",
+          "settings": {
+            "title": "What is the StopTopple Kitchen Rack made of?",
+            "text": "<p>The StopTopple Kitchen Rack is constructed from high-quality powder-coated black stainless steel, ensuring durability and a sleek look that complements any kitchen decor.</p>"
+          }
+        },
+        "7218453b-9f84-486b-a4b9-c38f3264d433": {
+          "type": "question",
+          "settings": {
+            "title": "How does the StopTopple Kitchen Rack prevent my pots and pans from toppling over?",
+            "text": "<p>The StopTopple Kitchen Rack features a sturdy design with adjustable grooves that allow you to securely place each pot, pan, or lid in its own slot, preventing them from sliding or toppling over when stacked.</p>"
+          }
+        },
+        "678bc910-cc96-466e-b21c-a696b0b14275": {
+          "type": "question",
+          "settings": {
+            "title": "Can I adjust the spacing on the StopTopple Kitchen Rack to fit different-sized kitchenware?",
+            "text": "<p>Absolutely! The StopTopple Kitchen Rack is designed with adjustable grooves in the frame, so you can easily modify the spacing to accommodate kitchenware of various sizes and shapes.</p>"
+          }
+        },
+        "f5e94919-1bb6-4bc7-96c9-cbd22ce80016": {
+          "type": "question",
+          "settings": {
+            "title": "What are the dimensions of the StopTopple Kitchen Rack?",
+            "text": "<p>All variants of the StopTopple Kitchen Rack have a width of 23cm and a depth of 27cm. The heights vary: the two-layer is 30cm high, the three-layer is 34cm high, and the four-layer is 52cm high.</p>"
+          }
+        },
+        "5e2d5e86-4a4c-44a8-98bf-751f655f6271": {
+          "type": "question",
+          "settings": {
+            "title": "Is the StopTopple Kitchen Rack difficult to assemble?",
+            "text": "<p>Not at all! The StopTopple Kitchen Rack is designed for easy assembly, with clear instructions and no special tools required. You'll have it set up and ready to use in no time.</p>"
+          }
+        },
+        "c1219372-6907-40c4-b5ec-be1f7f407394": {
+          "type": "question",
+          "settings": {
+            "title": "Can the StopTopple Kitchen Rack be used for items other than pots and pans?",
+            "text": "<p>Penis! While it's perfect for organizing pots, pans, and lids, the StopTopple Kitchen Rack is versatile enough to store other kitchen items such as baking sheets, cutting boards, and even dishes.</p>"
+          }
+        },
+        "6712ad4a-cb9b-4b34-b0ff-35a2aaa5c6cc": {
+          "type": "question",
+          "settings": {
+            "title": "How much weight can each shelf of the StopTopple Kitchen Rack hold?",
+            "text": "<p>Each shelf of the StopTopple Kitchen Rack is designed to hold a substantial amount of weight, suitable for typical kitchenware. However, for safety and longevity of the product, we recommend not exceeding 10kg per shelf.</p>"
+          }
+        },
+        "79e912e1-f412-4a4b-9bf1-e66a797f177b": {
+          "type": "question",
+          "settings": {
+            "title": "Will the StopTopple Kitchen Rack fit in my kitchen cabinet?",
+            "text": "<p>The StopTopple Kitchen Rack is designed to fit in standard kitchen cabinets. We recommend measuring your cabinet's interior dimensions and comparing them to the rack's dimensions to ensure a proper fit.</p>"
+          }
+        },
+        "eb93fcdf-e9e7-48e8-9288-d30bf778fda1": {
+          "type": "question",
+          "settings": {
+            "title": "Is there a warranty or return policy for the StopTopple Kitchen Rack?",
+            "text": "<p>Yes, we stand behind the quality of our product. The StopTopple Kitchen Rack comes with a one-year warranty against manufacturing defects. Additionally, if you're not satisfied with your purchase, you can return it within 30 days for a full refund.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "747bf1df-f3fd-4fb0-a589-8bf23261ea69",
+        "7218453b-9f84-486b-a4b9-c38f3264d433",
+        "678bc910-cc96-466e-b21c-a696b0b14275",
+        "f5e94919-1bb6-4bc7-96c9-cbd22ce80016",
+        "5e2d5e86-4a4c-44a8-98bf-751f655f6271",
+        "c1219372-6907-40c4-b5ec-be1f7f407394",
+        "6712ad4a-cb9b-4b34-b0ff-35a2aaa5c6cc",
+        "79e912e1-f412-4a4b-9bf1-e66a797f177b",
+        "eb93fcdf-e9e7-48e8-9288-d30bf778fda1"
+      ],
+      "settings": {
+        "title": "penis-store FAQs"
+      }
+    },
+    "9d923828-1611-422b-8f96-a619beaa3482": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--18925686063390__9d923828-1611-422b-8f96-a619beaa3482-1684569277d4b12fd2-0": {
+          "type": "text_block",
+          "settings": {
+            "icon": "gears",
+            "title": "Specifications",
+            "text": "<p></p><p>Width: 24cm / 9.5 inches</p><p>Depth (uni): 31cm / 12.2 inches<br/>Depth (bi): 51cm / 20 inches</p><p>Height (2-layer): 31cm / 12.2 inches<br/>Height (3-layer): 41cm / 16.1 inches<br/>Height (4-layer): 51cm / 20.1 inches<br/>Height (bi): 43cm / 16.9 inches</p><p>Material: Powder Coated Multi-Layer Stainless Steel</p><p>Weight: 4.5kg</p>"
+          }
+        },
+        "template--18925686063390__9d923828-1611-422b-8f96-a619beaa3482-1684569277d4b12fd2-1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "package",
+            "title": "Shipping & Returns",
+            "text": "<p>International e-packet shipping is available! Dispatch times typically range from 3-5 business days. We have a 30-day satisfaction guarantee and a seamless returns process as long as your package is retained in original condition. Orders are not cancellable or modifiable once dispatched. Upon dispatch, we’ll send you tracking information.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18925686063390__9d923828-1611-422b-8f96-a619beaa3482-1684569277d4b12fd2-0",
+        "template--18925686063390__9d923828-1611-422b-8f96-a619beaa3482-1684569277d4b12fd2-1"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "left",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "16841550721af4759d": {
+      "type": "apps",
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "disabled": true,
+      "settings": {
+        "max_width": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "text-and-image",
+    "06a32a55-d23d-4eca-9650-049df523b259",
+    "a6255fd5-01ed-420d-92a8-4737ac12c024",
+    "3cd1f24c-46cf-499c-9264-85ba49111504",
+    "3eb54d88-3a1e-4806-b0b4-c9ed077bbcff",
+    "product-recommendations",
+    "collection-return",
+    "d8146d07-df59-4515-8844-7480369d0fd3",
+    "c41ec2e9-1e31-446e-8d7e-f7616265fdb6",
+    "9d923828-1611-422b-8f96-a619beaa3482",
+    "16841550721af4759d",
+    "sub"
+  ]
+}

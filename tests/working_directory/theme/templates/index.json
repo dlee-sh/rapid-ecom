@@ -1,0 +1,129 @@
+{
+  "sections": {
+    "debb4bea-069d-4d80-9a05-99f35908475b": {
+      "type": "hero-video",
+      "settings": {
+        "title": "Build your doggy penthouse today!",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "Buy now!",
+        "link": "shopify://products/product_backend_name",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://youtu.be/Nrj98OESK84",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "7c757b71-97dc-41d9-82d9-d96bbde8201d": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Explore the Doggy Penthouse Range!",
+        "home_featured_products": "frontpage",
+        "per_row": 1,
+        "rows": 3,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "bf591d00-6ebd-4452-9e20-6c1d3ad0c387": {
+      "type": "slideshow",
+      "blocks": {
+        "template--17170672681263__bf591d00-6ebd-4452-9e20-6c1d3ad0c387-1670570806844f63fd-0": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify://shop_images/0018_-_product_5.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "80% 100%"
+          }
+        },
+        "template--17170672681263__bf591d00-6ebd-4452-9e20-6c1d3ad0c387-1670570806844f63fd-1": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify://shop_images/0018_-_product_10.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "80% 100%"
+          }
+        },
+        "f16589f6-8d07-4498-8d03-db074125ac88": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify://shop_images/0018_-_product_9.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "80% 100%"
+          }
+        }
+      },
+      "block_order": [
+        "template--17170672681263__bf591d00-6ebd-4452-9e20-6c1d3ad0c387-1670570806844f63fd-0",
+        "template--17170672681263__bf591d00-6ebd-4452-9e20-6c1d3ad0c387-1670570806844f63fd-1",
+        "f16589f6-8d07-4498-8d03-db074125ac88"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "250px",
+        "parallax": false,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "16841345161fc1658f": {
+      "type": "apps",
+      "settings": { "full_width": false, "space_around": true }
+    },
+    "8078ad34-83e4-4b3a-b47f-0d9d986a36fc": {
+      "type": "newsletter",
+      "blocks": {
+        "template--18247180189961__8078ad34-83e4-4b3a-b47f-0d9d986a36fc-title-1": {
+          "type": "title",
+          "settings": { "title": "Sign up and save", "icon_enable": true }
+        },
+        "template--18247180189961__8078ad34-83e4-4b3a-b47f-0d9d986a36fc-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.</p>"
+          }
+        },
+        "template--18247180189961__8078ad34-83e4-4b3a-b47f-0d9d986a36fc-form-1": {
+          "type": "form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "template--18247180189961__8078ad34-83e4-4b3a-b47f-0d9d986a36fc-title-1",
+        "template--18247180189961__8078ad34-83e4-4b3a-b47f-0d9d986a36fc-text-1",
+        "template--18247180189961__8078ad34-83e4-4b3a-b47f-0d9d986a36fc-form-1"
+      ],
+      "settings": { "color_background": "#f9f9f9", "color_text": "#1c1d1d" }
+    }
+  },
+  "order": [
+    "debb4bea-069d-4d80-9a05-99f35908475b",
+    "7c757b71-97dc-41d9-82d9-d96bbde8201d",
+    "bf591d00-6ebd-4452-9e20-6c1d3ad0c387",
+    "16841345161fc1658f",
+    "8078ad34-83e4-4b3a-b47f-0d9d986a36fc"
+  ]
+}

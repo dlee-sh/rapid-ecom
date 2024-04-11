@@ -1,0 +1,37 @@
+{
+  "benefit": {
+    "system": "You are a copywriter, and your clients generate outrageous ROAS (return on ad spend) with your copywriting.",
+    "task": "Write 5 (five) product benefits. A benefit is a 2-4 sentence description, accompanied by a headline, of the way a product can benefit the target audience. Include emojis where relevant.",
+    "validation": "{'headline1': '<the headline of the first benefit>', 'description1': '<the description of the first benefit>'}, {'headline2': '<the headline of the second benefit>', 'description2': '<the description of the second benefit>'}, {'headline3': '<the headline of the third benefit>', 'description3': '<the description of the third benefit>'}, {'headline4': '<the headline of the fourth benefit>', 'description4': '<the description of the fourth benefit>'}, {'headline5': '<the headline of the fifth benefit>', 'description5': '<the description of the fifth benefit>'}"
+  },
+  "hook": {
+    "system": "You are a copywriter, and your clients generate outrageous ROAS (return on ad spend) with your copywriting.",
+    "task": "Write 5 (five) advertisement hooks. A hook is a short statement that grasps the customers attention, by highlighting an emotion or problem, and compels them to purchase the product. Include emojis where relevant.",
+    "validation": "{'hook1': '<first hook text>'}, {'hook2': '<second hook text>'}, {'hook3': '<third hook text>'}, {'hook4': '<fourth hook text>'}, {'hook5': '<fifth hook text>'}"
+  },
+  "offer": {
+    "system": "You are a copywriter, and your clients generate outrageous ROAS (return on ad spend) with your copywriting.",
+    "task": "Write 5 (five) offers. An offer is a short statement that flaunts an urgent and compelling deal to the customer. Include emojis where relevant.",
+    "validation": "{'offer1': '<first offer text>'}, {'offer2': '<second offer text>'}, {'offer3': '<third offer text>'}, {'offer4': '<fourth offer text>'}, {'offer5': '<fifth offer text>'},"
+  },
+  "cta": {
+    "system": "You are a copywriter, and your clients generate outrageous ROAS (return on ad spend) with your copywriting.",
+    "task": "Write 5 (five) call-to-actions. A call-to-action is a short statement that encourages the customer to impulsively purchase the product. Include emojis where relevant.",
+    "validation": "{'cta1': '<first cta text>'}, {'cta2': '<second cta text>'}, {'cta3': '<third cta text>'}, {'cta4': '<fourth cta text>'}, {'cta5': '<fifth cta text>'}"
+  },
+  "guarantee": {
+    "system": "You are a copywriter, and your clients generate outrageous ROAS (return on ad spend) with your copywriting.",
+    "task": "Write 5 (five) product guarantees. Product guarantees are short statements that instill security to the customer such that they can make an impulsive purchase.",
+    "validation": "{'guarantee1': '<first guarantee text>'}, {'guarantee2': '<second guarantee text>'}, {'guarantee3': '<third guarantee text>'}, {'guarantee4': '<fourth guarantee text>'}, {'guarantee5': '<fifth guarantee text>'}"
+  },
+  "faq": {
+    "system": "You are a copywriter, and your clients generate outrageous ROAS (return on ad spend) with your copywriting.",
+    "task": "Write 9 (nine) frequently asked questions (FAQs) and answers. FAQs alleviate doubt or concerns a customer may have, such that they can make an impulsive purchase.",
+    "validation": "{'question1': '<the first question for the FAQ>', 'answer1': '<the first answer for the FAQ>'},{'question2': '<the second question for the FAQ>', 'answer2': '<the second answer for the FAQ>'}, {'question3': '<the third question for the FAQ>', 'answer3': '<the third answer for the FAQ>'}, {'question4': '<the fourth question for the FAQ>', 'answer4': '<the fourth answer for the FAQ>'}, {'question5': '<the fifth question for the FAQ>', 'answer5': '<the fifth answer for the FAQ>'}, {'question6': '<the sixth question for the FAQ>', 'answer6': '<the sixth answer for the FAQ>'}, {'question7': '<the seventh question for the FAQ>', 'answer7': '<the seventh answer for the FAQ>'}, {'question8': '<the eighth question for the FAQ>', 'answer8': '<the eighth answer for the FAQ>'}, {'question9': '<the ninth question for the FAQ>', 'answer9': '<the ninth answer for the FAQ>'}"
+  },
+  "testimonial": {
+    "system": "You are a service that collects product reviews.",
+    "task": "Write 5 (five) testimonials, only vaguely mentioning features about the product.",
+    "validation": "{'testimonial1': '<the first testimonial text>', 'author1': '<the name of the person writing the first testimonial>'}, {'testimonial2': '<the second testimonial text>', 'author2': '<the name of the person writing the second testimonial>'}, {'testimonial3': '<the third testimonial text>', 'author3': '<the name of the person writing the third testimonial>'}, {'testimonial4': '<the fourth testimonial text>', 'author4': '<the name of the person writing the fourth testimonial>'}, {'testimonial5': '<the fifth testimonial text>', 'author5': '<the name of the person writing the fifth testimonial>'}"
+  }
+}
